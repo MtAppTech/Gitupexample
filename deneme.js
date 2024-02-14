@@ -7,3 +7,4 @@ const deneme = () => {
 }
 
 export default deneme
+//ortak yerde degisiklik yaptim
