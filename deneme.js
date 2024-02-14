@@ -7,5 +7,9 @@ const deneme = () => {
 }
 
 export default deneme
+<<<<<<< HEAD
 //main degisit
 //main 2 degisti
+=======
+//ortak yerde degisiklik yaptim
+>>>>>>> murat
