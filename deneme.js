@@ -7,3 +7,5 @@ const deneme = () => {
 }
 
 export default deneme
+//main degisit
+//main 2 degisti
