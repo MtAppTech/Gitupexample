@@ -8,3 +8,4 @@ const deneme = () => {
 
 export default deneme
 //degisti mtapptech
+//degisti mtapptech 2
